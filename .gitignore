@@ -1,0 +1,25 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+myenv/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Generated model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Large local-only MovieLens ratings data
+/03_Data_Analysis/03_Pandas/04_MovieLens_Analysis/data/rating.csv

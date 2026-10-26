@@ -17,43 +17,45 @@ def my_decorator(func):
     return wrapper
 
 @my_decorator
-def greet():
-    print("Hello!")
+def greet_user():
+    print("Hello, user!")
 
-greet()
+greet_user()
 ```
 
 Output:
 
 ```text
 Before the function
-Hello!
+Hello, user!
 After the function
 ```
 
-`@my_decorator` is shorthand for `greet = my_decorator(greet)`.
+`@my_decorator` is shorthand for `greet_user = my_decorator(greet_user)`.
 
 ## 3. Decorator without the `@` syntax
 
 ```python
-def decorate(func):
+def my_decorator(func):
     def wrapper():
-        print("Starting")
+        print("Before the function")
         func()
+        print("After the function")
     return wrapper
 
-def greet():
-    print("Hello")
+def welcome():
+    print("Welcome!")
 
-greet = decorate(greet)
-greet()
+welcome = my_decorator(welcome)
+welcome()
 ```
 
 Output:
 
 ```text
-Starting
-Hello
+Before the function
+Welcome!
+After the function
 ```
 
 ## 4. Decorators with function arguments
@@ -93,10 +95,10 @@ def uppercase_result(func):
     return wrapper
 
 @uppercase_result
-def message():
+def get_message():
     return "learning python"
 
-print(message())
+print(get_message())
 ```
 
 Output:

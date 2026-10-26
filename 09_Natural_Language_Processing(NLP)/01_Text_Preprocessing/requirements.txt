@@ -1,0 +1,4 @@
+# Core optional dependencies for this module
+nltk
+spacy
+scikit-learn

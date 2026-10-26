@@ -45,19 +45,13 @@ If Python is not installed, install it first from the official Python website.
 
 ## Install NumPy
 
-Use the following command:
-
-```bash
-pip install numpy
-```
-
-If you are using Python 3 specifically, you can also use:
+Install NumPy into the Python environment you plan to use:
 
 ```bash
 python -m pip install numpy
 ```
 
-For Windows users, this also works:
+On Windows, the Python launcher is also available:
 
 ```bash
 py -m pip install numpy

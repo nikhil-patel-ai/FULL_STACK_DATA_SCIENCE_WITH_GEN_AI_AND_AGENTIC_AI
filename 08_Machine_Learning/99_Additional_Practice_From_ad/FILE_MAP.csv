@@ -1,0 +1,203 @@
+﻿original_path,organized_path
+Data.csv,02_Data_Preprocessing/Datasets/Data.csv
+Salary_Data.csv,04_Regression/Datasets/Salary_Data.csv
+spyder.py,99_Reference_Materials/Unsorted_Original_Files/spyder.py
+Statistics/SIMPLE LINEAR REGRESSION.rar,04_Regression/Statistics_and_Regression_Resources/SIMPLE LINEAR REGRESSION.rar
+Statistics/Salary_Data.rar,04_Regression/Statistics_and_Regression_Resources/Salary_Data.rar
+Statistics/Regular Summarization_ 4PM/Regular Summarization_ 4PM.txt,04_Regression/Statistics_and_Regression_Resources/Regular Summarization_ 4PM.txt
+Statistics/Regular Summarization_file 4PM__/Regular Summarization_file 4PM__.xlsx,04_Regression/Statistics_and_Regression_Resources/Regular Summarization_file 4PM__.xlsx
+02_classification/Future_prediction.py,05_Classification/Future_prediction.py
+02_classification/final1.csv,05_Classification/final1.csv
+02_classification/logit classification.csv,05_Classification/logit classification.csv
+02_classification/Logical_regression.py,05_Classification/Logical_regression.py
+02_classification/final.csv,05_Classification/final.csv
+02_classification/8th- knn/8th- knn/k_nearest_neighbors.py,05_Classification/KNN/k_nearest_neighbors.py
+02_classification/8th- knn/8th- knn/Social_Network_Ads.csv,05_Classification/KNN/Social_Network_Ads.csv
+02_classification/8th- knn/8th- knn/imbalance explanation.jpg,05_Classification/KNN/imbalance explanation.jpg
+02_classification/8th- knn/8th- knn/future prediction _ 2.xlsx,05_Classification/KNN/future prediction _ 2.xlsx
+02_classification/8th- knn/8th- knn/CRYPTO ANALYSIS/app.py,12_ML_Projects/Crypto_Price_Prediction/app.py
+02_classification/8th- knn/8th- knn/CRYPTO ANALYSIS/Bitcoinpriceprediction.ipynb,12_ML_Projects/Crypto_Price_Prediction/Bitcoinpriceprediction.ipynb
+02_classification/8th- knn/8th- knn/CRYPTO ANALYSIS/random_forest_model.pkl,12_ML_Projects/Crypto_Price_Prediction/random_forest_model.pkl
+02_classification/8th- knn/8th- knn/CRYPTO ANALYSIS/FEATURE DESCRIPTIO1.docx,12_ML_Projects/Crypto_Price_Prediction/FEATURE DESCRIPTIO1.docx
+02_classification/8th- knn/8th- knn/CRYPTO ANALYSIS/scaler.pkl,12_ML_Projects/Crypto_Price_Prediction/scaler.pkl
+02_classification/8th- knn/8th- knn/CRYPTO ANALYSIS/crypto_data_updated_13_november.csv,12_ML_Projects/Crypto_Price_Prediction/crypto_data_updated_13_november.csv
+02_classification/8th- knn/8th- knn/1.K-NN/5.PNG,05_Classification/KNN/Notes_Images/5.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/16.PNG,05_Classification/KNN/Notes_Images/16.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/10.PNG,05_Classification/KNN/Notes_Images/10.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/1.PNG,05_Classification/KNN/Notes_Images/1.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/9.PNG,05_Classification/KNN/Notes_Images/9.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/4.PNG,05_Classification/KNN/Notes_Images/4.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/6.PNG,05_Classification/KNN/Notes_Images/6.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/2.PNG,05_Classification/KNN/Notes_Images/2.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/14.PNG,05_Classification/KNN/Notes_Images/14.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/8.PNG,05_Classification/KNN/Notes_Images/8.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/15.PNG,05_Classification/KNN/Notes_Images/15.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/13.PNG,05_Classification/KNN/Notes_Images/13.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/11.PNG,05_Classification/KNN/Notes_Images/11.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/12.PNG,05_Classification/KNN/Notes_Images/12.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/3.PNG,05_Classification/KNN/Notes_Images/3.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/7.PNG,05_Classification/KNN/Notes_Images/7.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/18.PNG,05_Classification/KNN/Notes_Images/18.PNG
+02_classification/8th- knn/8th- knn/1.K-NN/17.PNG,05_Classification/KNN/Notes_Images/17.PNG
+"02_classification/8th- knn/8th- knn/projects/LOGISTIC REGRESSION , PCA, EDA/eda-logistic-regression-pca.ipynb",05_Classification/KNN/eda-logistic-regression-pca.ipynb
+"02_classification/8th- knn/8th- knn/projects/LOGISTIC REGRESSION , PCA, EDA/adult/adult.csv",05_Classification/KNN/adult.csv
+02_classification/8th- knn/8th- knn/projects/KNN/brest cancer.txt,05_Classification/KNN/brest cancer.txt
+02_classification/8th- knn/8th- knn/projects/KNN/knn-classifier-tutorial.ipynb,05_Classification/KNN/knn-classifier-tutorial.ipynb
+02_classification/8th- knn/8th- knn/2.K-NN/5.PNG,05_Classification/KNN/Practice_Images/5.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/10.PNG,05_Classification/KNN/Practice_Images/10.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/1.PNG,05_Classification/KNN/Practice_Images/1.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/9.PNG,05_Classification/KNN/Practice_Images/9.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/4.PNG,05_Classification/KNN/Practice_Images/4.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/6.PNG,05_Classification/KNN/Practice_Images/6.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/2.PNG,05_Classification/KNN/Practice_Images/2.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/8.PNG,05_Classification/KNN/Practice_Images/8.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/3.PNG,05_Classification/KNN/Practice_Images/3.PNG
+02_classification/8th- knn/8th- knn/2.K-NN/7.PNG,05_Classification/KNN/Practice_Images/7.PNG
+02_classification/7th - SVM/7th - SVM/530_function.ipynb,05_Classification/SVM/530_function.ipynb
+02_classification/7th - SVM/7th - SVM/support_vector_machine.py,05_Classification/SVM/support_vector_machine.py
+02_classification/7th - SVM/7th - SVM/Social_Network_Ads.csv,05_Classification/SVM/Social_Network_Ads.csv
+02_classification/7th - SVM/7th - SVM/svm28Jan2018_v1.pdf,05_Classification/SVM/svm28Jan2018_v1.pdf
+02_classification/7th - SVM/7th - SVM/Future prediction1.csv,05_Classification/SVM/Future prediction1.csv
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/5.PNG,05_Classification/SVM/Math_Notes_Images/5.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/16.PNG,05_Classification/SVM/Math_Notes_Images/16.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/10.PNG,05_Classification/SVM/Math_Notes_Images/10.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/1.PNG,05_Classification/SVM/Math_Notes_Images/1.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/9.PNG,05_Classification/SVM/Math_Notes_Images/9.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/4.PNG,05_Classification/SVM/Math_Notes_Images/4.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/19.PNG,05_Classification/SVM/Math_Notes_Images/19.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/28.PNG,05_Classification/SVM/Math_Notes_Images/28.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/6.PNG,05_Classification/SVM/Math_Notes_Images/6.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/2.PNG,05_Classification/SVM/Math_Notes_Images/2.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/20.PNG,05_Classification/SVM/Math_Notes_Images/20.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/29.PNG,05_Classification/SVM/Math_Notes_Images/29.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/21.PNG,05_Classification/SVM/Math_Notes_Images/21.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/14.PNG,05_Classification/SVM/Math_Notes_Images/14.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/22.PNG,05_Classification/SVM/Math_Notes_Images/22.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/8.PNG,05_Classification/SVM/Math_Notes_Images/8.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/25.PNG,05_Classification/SVM/Math_Notes_Images/25.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/15.PNG,05_Classification/SVM/Math_Notes_Images/15.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/13.PNG,05_Classification/SVM/Math_Notes_Images/13.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/11.PNG,05_Classification/SVM/Math_Notes_Images/11.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/30.PNG,05_Classification/SVM/Math_Notes_Images/30.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/12.PNG,05_Classification/SVM/Math_Notes_Images/12.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/3.PNG,05_Classification/SVM/Math_Notes_Images/3.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/26.PNG,05_Classification/SVM/Math_Notes_Images/26.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/24.PNG,05_Classification/SVM/Math_Notes_Images/24.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/27.PNG,05_Classification/SVM/Math_Notes_Images/27.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/7.PNG,05_Classification/SVM/Math_Notes_Images/7.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/18.PNG,05_Classification/SVM/Math_Notes_Images/18.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/23.PNG,05_Classification/SVM/Math_Notes_Images/23.PNG
+02_classification/7th - SVM/7th - SVM/SVM2_ MATH/17.PNG,05_Classification/SVM/Math_Notes_Images/17.PNG
+02_classification/7th - SVM/7th - SVM/SVM - internship project_ dataset has given/project/default of credit card clients.xls,05_Classification/SVM/default of credit card clients.xls
+02_classification/7th - SVM/7th - SVM/SVM - internship project_ dataset has given/project/Internship.txt,05_Classification/SVM/Internship.txt
+02_classification/7th - SVM/7th - SVM/SVM1/5.PNG,05_Classification/SVM/Notes_Images/5.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/16.PNG,05_Classification/SVM/Notes_Images/16.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/10.PNG,05_Classification/SVM/Notes_Images/10.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/1.PNG,05_Classification/SVM/Notes_Images/1.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/9.PNG,05_Classification/SVM/Notes_Images/9.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/4.PNG,05_Classification/SVM/Notes_Images/4.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/19.PNG,05_Classification/SVM/Notes_Images/19.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/6.PNG,05_Classification/SVM/Notes_Images/6.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/2.PNG,05_Classification/SVM/Notes_Images/2.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/20.PNG,05_Classification/SVM/Notes_Images/20.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/21.PNG,05_Classification/SVM/Notes_Images/21.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/14.PNG,05_Classification/SVM/Notes_Images/14.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/22.PNG,05_Classification/SVM/Notes_Images/22.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/8.PNG,05_Classification/SVM/Notes_Images/8.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/25.PNG,05_Classification/SVM/Notes_Images/25.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/15.PNG,05_Classification/SVM/Notes_Images/15.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/13.PNG,05_Classification/SVM/Notes_Images/13.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/11.PNG,05_Classification/SVM/Notes_Images/11.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/12.PNG,05_Classification/SVM/Notes_Images/12.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/3.PNG,05_Classification/SVM/Notes_Images/3.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/24.PNG,05_Classification/SVM/Notes_Images/24.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/7.PNG,05_Classification/SVM/Notes_Images/7.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/18.PNG,05_Classification/SVM/Notes_Images/18.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/23.PNG,05_Classification/SVM/Notes_Images/23.PNG
+02_classification/7th - SVM/7th - SVM/SVM1/17.PNG,05_Classification/SVM/Notes_Images/17.PNG
+02_classification/7th - SVM/7th - SVM/PDF/PDF/gen_AI.pdf,99_Reference_Materials/gen_AI.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/GEMMA.pdf,99_Reference_Materials/GEMMA.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/ML Model Deployment.pdf,99_Reference_Materials/ML Model Deployment.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Natural Language Processing.pdf,99_Reference_Materials/Natural Language Processing.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/TensorFlow Documentation.pdf,11_Specialized_ML/Neural_Networks/TensorFlow Documentation.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/11. Random Forest.pdf,08_Ensemble_Learning/11. Random Forest.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Machine Learning.pdf,01_ML_Fundamentals/Machine Learning.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Numpy.pdf,99_Reference_Materials/Numpy.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/DS Question with Answer.pdf,99_Reference_Materials/DS Question with Answer.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/LLM.pdf,99_Reference_Materials/LLM.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Open AI.pdf,99_Reference_Materials/Open AI.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Pandas.pdf,99_Reference_Materials/Pandas.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/statisctic.before.pdf,99_Reference_Materials/statisctic.before.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Gemini AI.pdf,99_Reference_Materials/Gemini AI.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Error  Exception Handling.pdf,99_Reference_Materials/Error  Exception Handling.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/06 Classification introduction.pdf,05_Classification/06 Classification introduction.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Open CV Documentation.pdf,99_Reference_Materials/Open CV Documentation.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Neural Network.pdf,11_Specialized_ML/Neural_Networks/Neural Network.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Gradient Boosting (GB).pdf,08_Ensemble_Learning/Gradient Boosting (GB).pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/15 Evaluation Matrices for classification.pdf,05_Classification/15 Evaluation Matrices for classification.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Dictionary in python.pdf,99_Reference_Materials/Dictionary in python.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Question.pdf,99_Reference_Materials/Question.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Generative AI on Google Cloud.pdf,99_Reference_Materials/Generative AI on Google Cloud.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/12 Adaboost.pdf,08_Ensemble_Learning/12 Adaboost.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Important Elements.pdf,99_Reference_Materials/Important Elements.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Chroma.pdf,11_Specialized_ML/Chroma.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Pine Cone.pdf,99_Reference_Materials/Pine Cone.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Function.pdf,99_Reference_Materials/Function.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/CNN Doumentation.pdf,11_Specialized_ML/Neural_Networks/CNN Doumentation.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Sea Born.pdf,99_Reference_Materials/Sea Born.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Naïve Bayes Classification.pdf,05_Classification/Naïve Bayes Classification.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/FAISS.pdf,11_Specialized_ML/FAISS.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/03 Data Preprocessing.pdf,02_Data_Preprocessing/03 Data Preprocessing.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Python Intro.pdf,99_Reference_Materials/Python Intro.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/08. SVM.pdf,05_Classification/SVM/08. SVM.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Unsupervised Learning A Detailed Overview.pdf,01_ML_Fundamentals/Unsupervised Learning A Detailed Overview.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/RNN.pdf,11_Specialized_ML/Neural_Networks/RNN.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Model Evaluation.pdf,09_Model_Evaluation/Model Evaluation.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Inroduction of Rainforce.pdf,08_Ensemble_Learning/Inroduction of Rainforce.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/7.30 PM 8th March.pdf,99_Reference_Materials/7.30 PM 8th March.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/10.30 AM 8th MAR.pdf,99_Reference_Materials/10.30 AM 8th MAR.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/GridSearchCV vs. RandomizedSearchCV - 17. Others.pdf,10_Hyperparameter_Tuning/GridSearchCV vs. RandomizedSearchCV - 17. Others.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Regression For Machine Learning.pdf,04_Regression/Regression For Machine Learning.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/10. Decision Trees.pdf,05_Classification/10. Decision Trees.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Inroduction ro Neural Network.pdf,11_Specialized_ML/Neural_Networks/Inroduction ro Neural Network.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/16. Others.pdf,99_Reference_Materials/16. Others.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/18ML Pipe Line.pdf,99_Reference_Materials/18ML Pipe Line.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/07 KNN.pdf,05_Classification/KNN/07 KNN.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Association Rule Mining.pdf,11_Specialized_ML/Association Rule Mining.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/4pm 8th mar.pdf,99_Reference_Materials/4pm 8th mar.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Google Vision.pdf,99_Reference_Materials/Google Vision.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Exploratory Data Analysis.pdf,02_Data_Preprocessing/Exploratory Data Analysis.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Oops.pdf,99_Reference_Materials/Oops.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/14xg Boost.pdf,08_Ensemble_Learning/14xg Boost.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/MATPLOTLIB.pdf,99_Reference_Materials/MATPLOTLIB.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Evaluation mat for Regression.pdf,09_Model_Evaluation/Evaluation mat for Regression.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/01 ML Intro.pdf,01_ML_Fundamentals/01 ML Intro.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Collaborative Filtering.pdf,11_Specialized_ML/Collaborative Filtering.pdf
+02_classification/7th - SVM/7th - SVM/PDF/PDF/Prompt Engineering.pdf,99_Reference_Materials/Prompt Engineering.pdf
+04Regularization/car-mpg.csv,04_Regression/Regularization/car-mpg.csv
+04Regularization/Untitled.ipynb,04_Regression/Regularization/Untitled.ipynb
+04Regularization/.ipynb_checkpoints/Untitled-checkpoint.ipynb,04_Regression/Regularization/Untitled-checkpoint.ipynb
+03_Clustering/hierarical_clustering.py,06_Clustering/hierarical_clustering.py
+03_Clustering/.ipynb_checkpoints/hierarical_clustering-checkpoint.py,06_Clustering/hierarical_clustering-checkpoint.py
+KNN(k_Nearest Neighbour)/KNN.py,05_Classification/KNN/KNN.py
+01_Regression/app.py,04_Regression/app.py
+01_Regression/linear_regression_model.pkl,04_Regression/linear_regression_model.pkl
+01_Regression/app1.py,04_Regression/app1.py
+01_Regression/Salary_Data.csv,04_Regression/Salary_Data.csv
+01_Regression/Polynomial_regression/emp_sal.csv,04_Regression/emp_sal.csv
+01_Regression/Polynomial_regression/polynomial_regression.py,04_Regression/polynomial_regression.py
+01_Regression/29th_sep/flask practise.py,04_Regression/flask practise.py
+01_Regression/29th_sep/Desktop.pkl,04_Regression/Desktop.pkl
+01_Regression/29th_sep/app1.py,04_Regression/01_Regression_29th_sep_app1.py
+01_Regression/29th_sep/student_info.csv,04_Regression/student_info.csv
+01_Regression/29th_sep/student_mark_predictor.pkl,04_Regression/student_mark_predictor.pkl
+01_Regression/29th_sep/smp_data_from_app.csv,04_Regression/smp_data_from_app.csv
+01_Regression/29th_sep/students_mark_predictor.ipynb,04_Regression/students_mark_predictor.ipynb
+01_Regression/29th_sep/requirements.txt,04_Regression/requirements.txt
+01_Regression/29th_sep/static/images/college_banner2.png,99_Reference_Materials/Images/college_banner2.png
+01_Regression/29th_sep/templates/index.html,04_Regression/index.html
+01_Regression/Multi/Desktop.pkl,04_Regression/01_Regression_Multi_Desktop.pkl
+01_Regression/Multi/student_info.csv,04_Regression/01_Regression_Multi_student_info.csv
+01_Regression/Multi/Investment.csv,04_Regression/Investment.csv
+01_Regression/Multi/Untitled.ipynb,04_Regression/Untitled.ipynb
+01_Regression/Multi/.ipynb_checkpoints/Untitled-checkpoint.ipynb,04_Regression/Untitled-checkpoint.ipynb

@@ -252,7 +252,7 @@ A **dictionary** stores data in key-value pairs.
 
 ```python
 student = {
-    "name": "Nikhil",
+    "name": "Zeeshan",
     "age": 21
 }
 ```
