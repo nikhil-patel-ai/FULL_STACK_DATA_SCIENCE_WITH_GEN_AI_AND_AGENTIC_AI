@@ -1,59 +1,80 @@
 # Full Stack Data Science with Gen AI & Agentic AI
 
-This repository contains my learning, notes, practice, and projects from my
-**Full Stack Data Science with Gen AI & Agentic AI** course.
+This repository contains my learning notes, practice, and small projects from a Full Stack Data Science with Gen AI & Agentic AI course. I use it to understand concepts, write code, and keep my progress organized by topic.
 
-I am using this repository to learn concepts, practice them with code, and
-keep my learning journey organized topic-wise.
-
-> This is my course learning log. The checklist below records learning progress; finished, end-to-end portfolio projects will live in a separate repository.
-
+Complete, end-to-end portfolio projects are maintained in separate repositories. Topic exercises and small experiments stay with their related learning materials here.
 
 ## Current Learning Progress
 
-- **Current stage:** Machine Learning
-- **Pending:** Advanced Python
-- **Completed so far:** Python Fundamentals, Data Analysis, Web Application Development, Mathematics & Statistics, SQL & Databases
+- **Current focus:** Machine Learning
+- **In progress:** Advanced Python, Data Analysis, Mathematics & Statistics, Web Application Development, Machine Learning, Natural Language Processing, Deep Learning, Computer Vision, and MLOps & Deployment
+- **Completed:** Python Fundamentals
+- **Upcoming:** SQL & Databases, Power BI, Generative AI, LLMs, Prompt Engineering, Vector Databases & RAG, Agentic AI, and MCP
 
----
+### Learning Progress Legend
 
-## What Will I Learn?
+- [x] Completed: I understand the concept, have written notes, and have practiced it.
+- [ ] Pending: I have not completed the topic yet.
 
-This course covers different areas of Data Science, Machine Learning,
-Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
+A topic is complete only when its required subtopics are complete.
+
+## Repository Structure
+
+Directory names and non-Markdown filenames use lowercase. Markdown filenames keep uppercase names such as `README.md`; topic labels use normal capitalization. Links in the roadmap match the repository paths.
+
+```text
+.
+├── 01_python/
+├── 02_advanced_python/
+├── 03_data_analysis/
+├── 04_web_application_development/
+├── 05_sql_&_databases/
+├── 06_mathematics_&_statistics/
+├── 07_advance_stats/
+├── 08_machine_learning/
+├── 09_natural_language_processing(nlp)/
+├── 10_workshops/
+├── .gitignore
+├── LOCAL_ONLY_FILES.md
+├── README.md
+└── requirements.txt
+```
+
+## Learning Roadmap
 
 ### Python Fundamentals
 
-#### Completed
-
-- [x] [Introduction, Comments & Keywords](01_Python/01_Introduction)
-- [x] [Variables](01_Python/02_Variables)
-- [x] [Data Types](01_Python/03_DataTypes)
-- [x] [Strings, Indexing & Slicing](01_Python/04_String_Indexing_Slicing)
-- [x] [Type Casting](01_Python/05_Type_Casting)
-- [x] [Print Function](01_Python/06_Print_Function)
-- [x] [Operators & Bitwise Operators](01_Python/07_Operators)
-- [x] [Number System](01_Python/08_Number_System)
-- [x] [Swapping](01_Python/09_Swapping)
-- [x] [Modules](01_Python/10_Modules)
-- [x] [Input Function](01_Python/11_Input_Function)
-- [x] [Data Structures: Lists, Tuples, Sets, Dictionaries & Range](01_Python/12_Data_Structure)
-- [x] [Assignments & Practice](01_Python/13_Assignment_&_Practice)
+- [x] [Introduction, Comments & Keywords](01_python/01_introduction)
+- [x] [Variables](01_python/02_variables)
+- [x] [Data Types](01_python/03_datatypes)
+- [x] [Strings, Indexing & Slicing](01_python/04_string)
+- [x] [Type Casting](01_python/05_type_casting)
+- [x] [Print Function](01_python/06_print_function)
+- [x] [Operators & Bitwise Operators](01_python/07_operators)
+- [x] [Number System](01_python/08_number_system)
+- [x] [Swapping](01_python/09_swapping)
+- [x] [Modules](01_python/10_modules)
+- [x] [Input Function](01_python/11_input_function)
+- [x] [Data Structures: Lists, Tuples, Sets, Dictionaries & Range](01_python/12_data_structure)
+- [x] Assignments & Practice
 
 ### Advanced Python
 
-#### Pending
-
-- [x] [Conditional Statements](02_Advanced_Python/01_Conditional_Statement)
-- [x] [Loops](02_Advanced_Python/02_Loops)
-- [x] [Comprehensions](02_Advanced_Python/03_Comprehensions)
-- [x] [Functions](02_Advanced_Python/04_Functions)
-- [x] [Recursion](02_Advanced_Python/05_Recursion)
-- [x] [Lambda Function](02_Advanced_Python/06_Lambda_Function)
-- [x] [Decorators](02_Advanced_Python/07_Decorators)
-- [x] [Exception Handling](02_Advanced_Python/08_Exception_Handling)
+- [x] [Conditional Statements](02_advanced_python/01_conditional_statement)
+- [x] [Loops](02_advanced_python/02_loops)
+- [x] [Comprehensions](02_advanced_python/03_comprehensions)
+- [x] [Functions](02_advanced_python/04_functions)
+- [x] [Recursion](02_advanced_python/05_recursion)
+- [x] [Lambda Functions](02_advanced_python/06_lambda_function)
+- [x] [Decorators](02_advanced_python/07_decorators)
+- [x] [Exception Handling](02_advanced_python/08_exception_handling)
 - [ ] Object-Oriented Programming
+  - [ ] Classes and Objects
+  - [ ] Inheritance
+  - [ ] Encapsulation and Polymorphism
 - [ ] Iterators and Generators
+- [ ] Context Managers
+- [ ] `*args` and `**kwargs`
 - [ ] File Handling
 - [ ] Modules and Packages
 - [ ] Regular Expressions
@@ -61,87 +82,105 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 
 ### Data Analysis
 
-#### Ongoing
-
-- [x] [NumPy](03_Data_Analysis/01_NumPy)
-- [x] [Matplotlib](03_Data_Analysis/02_Matplotlib)
-- [x] [Pandas](03_Data_Analysis/03_Pandas)
-- [x] [Seaborn](03_Data_Analysis/04_Seaborn)
-- [x] [Exploratory Data Analysis (EDA)](03_Data_Analysis/05_Exploratory_Data_Analysis_(EDA))
-- [x] [Data Cleaning and Data Visualization Advance](03_Data_Analysis/06_Data_Cleaning_and_Visualization_Advance)
+- [x] [NumPy](03_data_analysis/01_numpy)
+- [x] [Matplotlib](03_data_analysis/02_matplotlib)
+- [x] [Pandas](03_data_analysis/03_pandas)
+- [x] [Exploratory Data Analysis (EDA)](03_data_analysis/05_exploratory_data_analysis)
+- [x] Advanced Data Cleaning and Visualization
+- [x] Seaborn
 - [ ] SciPy
 - [ ] Statsmodels
 
 ### Web Application Development
 
-- [x] [Streamlit](04_Web_Application_Development/01_Streamlit)
-- [x] [Gradio](04_Web_Application_Development/02_Gradio)
+- [x] Streamlit
+- [x] Gradio
 - [ ] Frontend Development
 - [ ] FastAPI
 - [ ] REST APIs
 - [ ] Flask
 
 ### SQL & Databases
+
+- [ ] [Python to MySQL Connector](05_sql_&_databases/01_python_to_mysql_connector)
+- [ ] [SQL Course](05_sql_&_databases/02_sql_course)
 - [ ] DBMS and RDBMS
 - [ ] SQL
 - [ ] MySQL
-- [ ] SQL Commands
-- [ ] CRUD Operations
-- [ ] Constraints
-- [ ] Joins
-- [ ] SQL Clauses
+- [ ] SQL Server (SSMS)
+- [ ] SQL Commands and CRUD Operations
+- [ ] Constraints, Joins, and SQL Clauses
 - [ ] Aggregate Functions
-- [ ] SQL vs NoSQL
+- [ ] Subqueries and Common Table Expressions (CTEs)
+- [ ] Window Functions
+- [ ] Views, Indexes, and Stored Procedures
+- [ ] SQL vs. NoSQL
 
 ### Mathematics & Statistics
-- [x] [Statistics Fundamentals](06_Mathematics_&_Statistics/01_Statistics_Fundamentals)
-- [x] [Descriptive Statistics](06_Mathematics_&_Statistics/02_Descriptive_Statistics)
-- [x] [Probability](06_Mathematics_&_Statistics/03_Probability)
-- [x] [Probability Distributions](06_Mathematics_&_Statistics/04_Probability_Distributions)
-- [x] [Inferential Statistics](06_Mathematics_&_Statistics/05_Inferential_Statistics)
-- [x] [Hypothesis Testing](06_Mathematics_&_Statistics/06_Hypothesis_Testing)
-- [x] [ANOVA](06_Mathematics_&_Statistics/07_ANOVA)
-- [x] [Chi-Square Test](06_Mathematics_&_Statistics/08_Chi_Square_Test)
-- [x] [Correlation](06_Mathematics_&_Statistics/09_Correlation)
-- [x] [Regression](06_Mathematics_&_Statistics/10_Regression)
-- [x] [Regression Model Evaluation](06_Mathematics_&_Statistics/11_Regression_Model_Evaluation)
-- [x] [Linear Algebra](06_Mathematics_&_Statistics/12_Linear_Algebra)
-- [x] [Calculus](06_Mathematics_&_Statistics/13_Calculus)
-- [x] [Bias and Variance](06_Mathematics_&_Statistics/14_Bias_and_Variance)
-- [x] [Statistics for Machine Learning](06_Mathematics_&_Statistics/15_Statistics_for_Machine_Learning)
+
+- [x] Statistics Fundamentals
+- [x] Descriptive Statistics
+- [x] Probability
+- [x] Probability Distributions
+- [x] Inferential Statistics
+- [x] Hypothesis Testing
+- [x] ANOVA
+- [x] Chi-Square Test
+- [x] Correlation
+- [x] Regression
+- [x] Regression Model Evaluation
+- [x] Linear Algebra
+  - [ ] Matrices
+  - [ ] Vectors
+  - [ ] Eigenvalues and Eigenvectors
+- [x] Calculus
+- [x] Bias and Variance
+- [x] Statistics for Machine Learning
 
 ### Machine Learning
-- [x] Introduction to Machine Learning
+
+- [x] [Introduction to Machine Learning](08_machine_learning/01_ml_fundamentals)
 - [x] Supervised Learning
 - [x] Unsupervised Learning
 - [x] Reinforcement Learning
-- [x] Data Preprocessing
-- [x] Feature Engineering
+- [x] [Data Preprocessing](08_machine_learning/02_data_preprocessing)
+- [x] [Feature Engineering](08_machine_learning/03_feature_engineering)
 - [ ] Feature Selection
 - [ ] Feature Scaling
 - [ ] Dimensionality Reduction
-- [x] Regression
-- [x] Classification
+- [x] [Regression](08_machine_learning/04_regression)
+  - [ ] Linear Regression
+  - [ ] Logistic Regression
+- [x] [Classification](08_machine_learning/05_classification)
+  - [ ] Decision Trees
+  - [ ] Random Forest
+  - [ ] Support Vector Machines (SVM)
+  - [ ] K-Nearest Neighbors (KNN)
+  - [ ] Naive Bayes
 - [x] Clustering
 - [ ] Ensemble Learning
 - [ ] Recommendation Systems
 - [ ] Time Series and Forecasting
 - [x] Model Evaluation
-- [x] Cross Validation
+- [x] Cross-Validation
 - [x] Hyperparameter Tuning
 - [x] Scikit-learn
 
 ### Natural Language Processing (NLP)
-- [x] Text Cleaning
-- [x] Tokenization
-- [x] Bag of Words
-- [x] TF-IDF
+
+- [x] [Text Cleaning](09_natural_language_processing%28nlp%29/01_text_preprocessing/02_text_cleaning)
+- [x] [Tokenization](09_natural_language_processing%28nlp%29/02_nlu/01_tokenization)
+- [ ] [Stopword Removal](09_natural_language_processing%28nlp%29/01_text_preprocessing/04_stopword_removal)
+- [ ] [Stemming](09_natural_language_processing%28nlp%29/01_text_preprocessing/05_stemming)
+- [ ] [Lemmatization](09_natural_language_processing%28nlp%29/01_text_preprocessing/06_lemmatization)
+- [x] [Bag of Words](09_natural_language_processing%28nlp%29/05_nlp_algorithm/01_bow)
+- [x] [TF-IDF](09_natural_language_processing%28nlp%29/05_nlp_algorithm/02_tfidf)
 - [x] N-Grams
-- [x] Word2Vec
+- [x] [Word2Vec and Embeddings](09_natural_language_processing%28nlp%29/05_nlp_algorithm/03_word_2_vec)
 - [ ] GloVe
 - [x] Text Classification
 - [x] Sentiment Analysis
-- [x] Topic Modelling
+- [x] Topic Modeling
 - [x] Part-of-Speech Tagging
 - [ ] Dependency Parsing
 - [ ] Named Entity Recognition (NER)
@@ -149,89 +188,105 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - [x] spaCy
 
 ### Power BI
-- [ ] Power BI Basics
+
+- [ ] Power BI Desktop
 - [ ] Reports and Visualizations
 - [ ] Data Sources
-- [ ] Power Query
+- [ ] Power Query Editor
 - [ ] Data Transformation
-- [ ] DAX
-- [ ] Filters
-- [ ] Slicers
+- [ ] Data Modeling and Relationships
+- [ ] DAX and DAX Functions
+- [ ] Filters and Slicers
 - [ ] Hierarchies
 - [ ] Dashboard and Report Creation
 
 ### Deep Learning
+
 - [x] Neural Networks
 - [ ] Perceptron
-- [x] ANN
+- [x] Artificial Neural Networks (ANN)
+- [ ] Activation Functions
+- [ ] Loss Functions
+- [ ] Optimizers
+- [ ] Evaluation Metrics
 - [x] Backpropagation
 - [x] Gradient Descent
 - [ ] PyTorch
 - [x] TensorFlow
 - [x] Keras
-- [x] CNN
-- [ ] RNN
-- [ ] LSTM
-- [ ] GRU
+- [x] Convolutional Neural Networks (CNNs)
+- [ ] Recurrent Neural Networks (RNNs)
+- [ ] LSTM and GRU
 - [ ] Transformers
 - [ ] Transfer Learning
 
 ### Computer Vision
+
 - [x] Image Processing
-- [x] CNN
+- [x] Convolutional Neural Networks (CNNs)
 - [x] OpenCV
 - [x] Face Detection
+- [ ] Image Augmentation
 - [ ] Object Detection
+- [ ] Image Segmentation
 - [x] Video Processing
 - [ ] YOLO
 - [x] Image Classification
 
 ### Generative AI
+
 - [ ] Introduction to Generative AI
 - [ ] Generative AI Models
 - [ ] Text Generation
 - [ ] Image Generation
 - [ ] Multimodal AI
-- [ ] GANs
+- [ ] Generative Adversarial Networks (GANs)
+- [ ] Variational Autoencoders (VAEs)
+- [ ] Diffusion Models
 - [ ] VQGAN
 - [ ] CLIP
-- [ ] Autoencoders
-- [ ] VAEs
 - [ ] Stable Diffusion
 
-### LLMs
-- [ ] Large Language Models
-- [ ] Foundation Models
-- [ ] Pre-trained vs Fine-tuned Models
+### Large Language Models (LLMs)
+
+#### Models and Providers
+
+- [ ] Large Language Models and Foundation Models
+- [ ] Pre-trained vs. Fine-tuned Models
 - [ ] OpenAI
 - [ ] Gemini
-- [ ] LLaMA
+- [ ] Llama
 - [ ] Claude
-- [ ] Mistral / Mixtral
+- [ ] Mistral and Mixtral
 - [ ] DeepSeek
 - [ ] Grok
+
+#### Libraries and Frameworks
+
 - [ ] Hugging Face
 - [ ] LangChain
+- [ ] LLM Fine-Tuning
+- [ ] LoRA and QLoRA
+
+#### Speech Models
+
 - [ ] Whisper
-- [ ] LLM Fine-tuning
-- [ ] LoRA
-- [ ] QLoRA
 
 ### Prompt Engineering
+
 - [ ] Introduction to Prompt Engineering
 - [ ] Prompt Structure
-- [ ] Zero-Shot Prompting
-- [ ] One-Shot Prompting
-- [ ] Few-Shot Prompting
+- [ ] Zero-Shot, One-Shot, and Few-Shot Prompting
 - [ ] Chain of Thought (CoT)
 - [ ] Self-Consistency
 - [ ] Role-Based Prompting
-- [ ] RAG
+- [ ] Retrieval-Augmented Generation (RAG)
 - [ ] ReAct
 - [ ] Dynamic Structured Prompting (DSP)
 - [ ] LLM Settings and Configuration
 
 ### Vector Databases & RAG
+
 - [ ] Vector Databases
 - [ ] Embeddings
 - [ ] Similarity Search
@@ -245,40 +300,42 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - [ ] AI Search Applications
 
 ### Agentic AI
+
 - [ ] Introduction to Agentic AI
 - [ ] Autonomous AI
-- [ ] Single-Agent Systems
-- [ ] Multi-Agent Systems
+- [ ] Single-Agent and Multi-Agent Systems
+- [ ] Agent Workflows and Orchestration
 - [ ] AI Agent Memory
 - [ ] Planning and Decision Making
-- [ ] Tool Use
+- [ ] Tool Use and Tool Calling
 - [ ] Agent Communication
 - [ ] CrewAI
-- [ ] SmolAgent
-- [ ] PhiData
-- [ ] Agentic AI with LLMs
+- [ ] SmolAgents
+- [ ] Phidata
+- [ ] Guardrails
+- [ ] Agent Evaluation
 - [ ] AI Agent Deployment
 
 ### MCP (Model Context Protocol)
+
 - [ ] Introduction to MCP
 - [ ] Need and Importance of MCP
 - [ ] MCP Architecture
-- [ ] MCP Host
-- [ ] MCP Client
-- [ ] MCP Server
+- [ ] MCP Host, Client, and Server
 - [ ] Data Flow and Communication
-- [ ] Resources
-- [ ] Tools
-- [ ] Prompts
+- [ ] Resources, Tools, and Prompts
 - [ ] MCP SDKs and Frameworks
 - [ ] MCP with LLMs and AI Agents
 
 ### MLOps & Deployment
+
 - [x] MLOps
-- [x] DevOps vs MLOps
+- [x] DevOps vs. MLOps
 - [x] ML Lifecycle
-- [ ] Docker
-- [ ] Model Packaging
+- [ ] Docker and Containerization
+- [ ] Model Packaging and Versioning
+- [ ] Experiment Tracking
+- [ ] Model Monitoring
 - [x] CI/CD
 - [x] GitHub Actions
 - [x] Jenkins
@@ -287,74 +344,97 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - [ ] Model Deployment
 - [ ] Cloud Deployment
 
----
-
-## Repository Structure
-
-This repository is organized by learning topic:
-
-```text
-.
-├── 01_Python/
-├── 02_Advanced_Python/
-├── 03_Data_Analysis/
-├── README.md
-├── NOTEBOOK_GUIDE.md
-├── SOURCES.md
-├── requirements.txt
-└── .gitignore
-```
-
 ## Setup and Run Notebooks
 
-Use Python 3.12 or newer. From the repository root:
-
-```bash
-python -m venv .venv
-```
-
-Activate the environment, then install the pinned dependencies:
+Use Python 3.12 or newer. From the repository root, run:
 
 ```powershell
+# Create a virtual environment
+python -m venv .venv
+
+# Activate in PowerShell
 .venv\Scripts\Activate.ps1
+
+# Activate in Command Prompt
+.venv\Scripts\activate.bat
+
+# Upgrade pip
+python -m pip install --upgrade pip
+
+# Install dependencies
 python -m pip install -r requirements.txt
+
+# Launch JupyterLab
 jupyter lab
 ```
 
-The notebooks use repository-relative paths and fixed sample input so they do not depend on one computer or pause for keyboard input. See [NOTEBOOK_GUIDE.md](NOTEBOOK_GUIDE.md) for run instructions and conventions.
+The root `requirements.txt` installs JupyterLab. Install any additional dependencies required by a topic using that topic's own `requirements.txt`, when present.
 
-## How I Use This Repository
+## Learning Workflow
 
-For every topic I learn:
+For every topic I study:
 
 1. I understand the concept.
-2. I write my notes in that topic's `README.md`.
-3. I practice the concept using code.
-4. I upload my practice to GitHub.
-5. I update the notes whenever I learn something new.
-6. I add projects as I build them.
+2. I write notes in the topic's `README.md`.
+3. I practice the concepts with code.
+4. I maintain and push my practice work to this repository.
+5. I update my notes as I learn more.
+6. I build small experiments and topic-based projects alongside the related material.
+7. I maintain complete, end-to-end portfolio projects in separate repositories.
 
-### Example
+## Technologies and Tools
 
-If I am learning **Lists in Python**, I keep notes, notebooks, and scripts together in the existing topic folder:
+### Programming Languages
 
-```text
-01_Python/
-└── 12_Data_Structure/
-    └── 01_List/
-        ├── README.md
-        ├── List.ipynb
-        └── List_py.py
-```
+- Python
+- SQL
 
-The README contains concept notes, the notebook contains guided practice, and the Python file contains standalone examples.
+### Data Analysis
 
----
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
-## Goal
+### Machine Learning and Deep Learning
 
-The goal of this repository is to learn by **understanding, practicing, and building**, rather than only collecting notes.
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
 
-This repository will also act as a record of my learning journey in:
+### Development Tools
 
-**Data Science → Machine Learning → Deep Learning → Generative AI → LLMs → Agentic AI → MLOps**
+- VS Code
+- Jupyter Notebook and JupyterLab
+- Git and GitHub
+
+### Generative AI and Agentic AI
+
+- Hugging Face
+- LangChain
+- Vector Databases
+- MCP
+
+## Projects
+
+Topic-based exercises, small experiments, and practice projects are maintained in their related folders. Complete, end-to-end portfolio projects are maintained in separate repositories.
+
+## Learning Resources
+
+- [Python Documentation](https://docs.python.org/3/)
+- [NumPy Documentation](https://numpy.org/doc/stable/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/)
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+- [TensorFlow Documentation](https://www.tensorflow.org/learn)
+- [PyTorch Documentation](https://pytorch.org/docs/stable/)
+- [SQL Server Documentation](https://learn.microsoft.com/sql/sql-server/)
+- [Power BI Documentation](https://learn.microsoft.com/power-bi/)
+- [Hugging Face Documentation](https://huggingface.co/docs)
+
+## Author
+
+**Nikhil Patel**
+
+- GitHub: [nikhil-patel-ai](https://github.com/nikhil-patel-ai)
