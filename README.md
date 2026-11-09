@@ -111,181 +111,181 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - [x] [Statistics for Machine Learning](06_Mathematics_&_Statistics/15_Statistics_for_Machine_Learning)
 
 ### Machine Learning
-- [x]Introduction to Machine Learning
-- [x]Supervised Learning
-- [x]Unsupervised Learning
-- [x]Reinforcement Learning
-- [x]Data Preprocessing
-- [x]Feature Engineering
-- Feature Selection
-- Feature Scaling
-- Dimensionality Reduction
-- [x]Regression
-- [x]Classification
-- [x]Clustering
-- Ensemble Learning
-- Recommendation Systems
-- Time Series and Forecasting
-- [x]Model Evaluation
-- [x]Cross Validation
-- [x]Hyperparameter Tuning
-- [x]Scikit-learn
+- [x] Introduction to Machine Learning
+- [x] Supervised Learning
+- [x] Unsupervised Learning
+- [x] Reinforcement Learning
+- [x] Data Preprocessing
+- [x] Feature Engineering
+- [ ] Feature Selection
+- [ ] Feature Scaling
+- [ ] Dimensionality Reduction
+- [x] Regression
+- [x] Classification
+- [x] Clustering
+- [ ] Ensemble Learning
+- [ ] Recommendation Systems
+- [ ] Time Series and Forecasting
+- [x] Model Evaluation
+- [x] Cross Validation
+- [x] Hyperparameter Tuning
+- [x] Scikit-learn
 
 ### Natural Language Processing (NLP)
-- [x]Text Cleaning
-- [x]Tokenization
-- [x]Bag of Words
-- [x]TF-IDF
-- [x]N-Grams
-- [x]Word2Vec
-- GloVe
-- [x]Text Classification
-- [x]Sentiment Analysis
-- [x]Topic Modelling
-- [x]Part-of-Speech Tagging
-- Dependency Parsing
-- Named Entity Recognition (NER)
-- [x]NLTK
-- [x]spaCy
+- [x] Text Cleaning
+- [x] Tokenization
+- [x] Bag of Words
+- [x] TF-IDF
+- [x] N-Grams
+- [x] Word2Vec
+- [ ] GloVe
+- [x] Text Classification
+- [x] Sentiment Analysis
+- [x] Topic Modelling
+- [x] Part-of-Speech Tagging
+- [ ] Dependency Parsing
+- [ ] Named Entity Recognition (NER)
+- [x] NLTK
+- [x] spaCy
 
 ### Power BI
-- Power BI Basics
-- Reports and Visualizations
-- Data Sources
-- Power Query
-- Data Transformation
-- DAX
-- Filters
-- Slicers
-- Hierarchies
-- Dashboard and Report Creation
+- [ ] Power BI Basics
+- [ ] Reports and Visualizations
+- [ ] Data Sources
+- [ ] Power Query
+- [ ] Data Transformation
+- [ ] DAX
+- [ ] Filters
+- [ ] Slicers
+- [ ] Hierarchies
+- [ ] Dashboard and Report Creation
 
 ### Deep Learning
-- [x]Neural Networks
-- Perceptron
-- [x]ANN
-- [x]Backpropagation
-- [x]Gradient Descent
-- PyTorch
-- [x]TensorFlow
-- [x]Keras
-- [x]CNN
-- RNN
-- LSTM
-- GRU
-- Transformers
-- Transfer Learning
+- [x] Neural Networks
+- [ ] Perceptron
+- [x] ANN
+- [x] Backpropagation
+- [x] Gradient Descent
+- [ ] PyTorch
+- [x] TensorFlow
+- [x] Keras
+- [x] CNN
+- [ ] RNN
+- [ ] LSTM
+- [ ] GRU
+- [ ] Transformers
+- [ ] Transfer Learning
 
 ### Computer Vision
-- [x]Image Processing
-- [x]CNN
-- [x]OpenCV
-- [x]Face Detection
-- Object Detection
-- [x]Video Processing
-- YOLO
-- [x]Image Classification
+- [x] Image Processing
+- [x] CNN
+- [x] OpenCV
+- [x] Face Detection
+- [ ] Object Detection
+- [x] Video Processing
+- [ ] YOLO
+- [x] Image Classification
 
 ### Generative AI
-- Introduction to Generative AI
-- Generative AI Models
-- Text Generation
-- Image Generation
-- Multimodal AI
-- GANs
-- VQGAN
-- CLIP
-- Autoencoders
-- VAEs
-- Stable Diffusion
+- [ ] Introduction to Generative AI
+- [ ] Generative AI Models
+- [ ] Text Generation
+- [ ] Image Generation
+- [ ] Multimodal AI
+- [ ] GANs
+- [ ] VQGAN
+- [ ] CLIP
+- [ ] Autoencoders
+- [ ] VAEs
+- [ ] Stable Diffusion
 
 ### LLMs
-- Large Language Models
-- Foundation Models
-- Pre-trained vs Fine-tuned Models
-- OpenAI
-- Gemini
-- LLaMA
-- Claude
-- Mistral / Mixtral
-- DeepSeek
-- Grok
-- Hugging Face
-- LangChain
-- Whisper
-- LLM Fine-tuning
-- LoRA
-- QLoRA
+- [ ] Large Language Models
+- [ ] Foundation Models
+- [ ] Pre-trained vs Fine-tuned Models
+- [ ] OpenAI
+- [ ] Gemini
+- [ ] LLaMA
+- [ ] Claude
+- [ ] Mistral / Mixtral
+- [ ] DeepSeek
+- [ ] Grok
+- [ ] Hugging Face
+- [ ] LangChain
+- [ ] Whisper
+- [ ] LLM Fine-tuning
+- [ ] LoRA
+- [ ] QLoRA
 
 ### Prompt Engineering
-- Introduction to Prompt Engineering
-- Prompt Structure
-- Zero-Shot Prompting
-- One-Shot Prompting
-- Few-Shot Prompting
-- Chain of Thought (CoT)
-- Self-Consistency
-- Role-Based Prompting
-- RAG
-- ReAct
-- Dynamic Structured Prompting (DSP)
-- LLM Settings and Configuration
+- [ ] Introduction to Prompt Engineering
+- [ ] Prompt Structure
+- [ ] Zero-Shot Prompting
+- [ ] One-Shot Prompting
+- [ ] Few-Shot Prompting
+- [ ] Chain of Thought (CoT)
+- [ ] Self-Consistency
+- [ ] Role-Based Prompting
+- [ ] RAG
+- [ ] ReAct
+- [ ] Dynamic Structured Prompting (DSP)
+- [ ] LLM Settings and Configuration
 
 ### Vector Databases & RAG
-- Vector Databases
-- Embeddings
-- Similarity Search
-- FAISS
-- Pinecone
-- ChromaDB
-- Weaviate
-- Milvus
-- Qdrant
-- Retrieval-Augmented Generation (RAG)
-- AI Search Applications
+- [ ] Vector Databases
+- [ ] Embeddings
+- [ ] Similarity Search
+- [ ] FAISS
+- [ ] Pinecone
+- [ ] ChromaDB
+- [ ] Weaviate
+- [ ] Milvus
+- [ ] Qdrant
+- [ ] Retrieval-Augmented Generation (RAG)
+- [ ] AI Search Applications
 
 ### Agentic AI
-- Introduction to Agentic AI
-- Autonomous AI
-- Single-Agent Systems
-- Multi-Agent Systems
-- AI Agent Memory
-- Planning and Decision Making
-- Tool Use
-- Agent Communication
-- CrewAI
-- SmolAgent
-- PhiData
-- Agentic AI with LLMs
-- AI Agent Deployment
+- [ ] Introduction to Agentic AI
+- [ ] Autonomous AI
+- [ ] Single-Agent Systems
+- [ ] Multi-Agent Systems
+- [ ] AI Agent Memory
+- [ ] Planning and Decision Making
+- [ ] Tool Use
+- [ ] Agent Communication
+- [ ] CrewAI
+- [ ] SmolAgent
+- [ ] PhiData
+- [ ] Agentic AI with LLMs
+- [ ] AI Agent Deployment
 
 ### MCP (Model Context Protocol)
-- Introduction to MCP
-- Need and Importance of MCP
-- MCP Architecture
-- MCP Host
-- MCP Client
-- MCP Server
-- Data Flow and Communication
-- Resources
-- Tools
-- Prompts
-- MCP SDKs and Frameworks
-- MCP with LLMs and AI Agents
+- [ ] Introduction to MCP
+- [ ] Need and Importance of MCP
+- [ ] MCP Architecture
+- [ ] MCP Host
+- [ ] MCP Client
+- [ ] MCP Server
+- [ ] Data Flow and Communication
+- [ ] Resources
+- [ ] Tools
+- [ ] Prompts
+- [ ] MCP SDKs and Frameworks
+- [ ] MCP with LLMs and AI Agents
 
 ### MLOps & Deployment
-- [x]MLOps
-- [x]DevOps vs MLOps
-- [x]ML Lifecycle
-- Docker
-- Model Packaging
-- [x]CI/CD
-- [x]GitHub Actions
-- [x]Jenkins
-- [x]MLflow
-- Kubeflow
-- Model Deployment
-- Cloud Deployment
+- [x] MLOps
+- [x] DevOps vs MLOps
+- [x] ML Lifecycle
+- [ ] Docker
+- [ ] Model Packaging
+- [x] CI/CD
+- [x] GitHub Actions
+- [x] Jenkins
+- [x] MLflow
+- [ ] Kubeflow
+- [ ] Model Deployment
+- [ ] Cloud Deployment
 
 ---
 
