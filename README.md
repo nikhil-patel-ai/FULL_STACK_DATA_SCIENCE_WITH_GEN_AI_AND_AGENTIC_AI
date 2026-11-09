@@ -111,42 +111,42 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - [x] [Statistics for Machine Learning](06_Mathematics_&_Statistics/15_Statistics_for_Machine_Learning)
 
 ### Machine Learning
-- Introduction to Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
-- Data Preprocessing
-- Feature Engineering
+- [x]Introduction to Machine Learning
+- [x]Supervised Learning
+- [x]Unsupervised Learning
+- [x]Reinforcement Learning
+- [x]Data Preprocessing
+- [x]Feature Engineering
 - Feature Selection
 - Feature Scaling
 - Dimensionality Reduction
-- Regression
-- Classification
-- Clustering
+- [x]Regression
+- [x]Classification
+- [x]Clustering
 - Ensemble Learning
 - Recommendation Systems
 - Time Series and Forecasting
-- Model Evaluation
-- Cross Validation
-- Hyperparameter Tuning
-- Scikit-learn
+- [x]Model Evaluation
+- [x]Cross Validation
+- [x]Hyperparameter Tuning
+- [x]Scikit-learn
 
 ### Natural Language Processing (NLP)
-- Text Cleaning
-- Tokenization
-- Bag of Words
-- TF-IDF
-- N-Grams
-- Word2Vec
+- [x]Text Cleaning
+- [x]Tokenization
+- [x]Bag of Words
+- [x]TF-IDF
+- [x]N-Grams
+- [x]Word2Vec
 - GloVe
-- Text Classification
-- Sentiment Analysis
-- Topic Modelling
-- Part-of-Speech Tagging
+- [x]Text Classification
+- [x]Sentiment Analysis
+- [x]Topic Modelling
+- [x]Part-of-Speech Tagging
 - Dependency Parsing
 - Named Entity Recognition (NER)
-- NLTK
-- spaCy
+- [x]NLTK
+- [x]spaCy
 
 ### Power BI
 - Power BI Basics
@@ -161,15 +161,15 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - Dashboard and Report Creation
 
 ### Deep Learning
-- Neural Networks
+- [x]Neural Networks
 - Perceptron
-- ANN
-- Backpropagation
-- Gradient Descent
+- [x]ANN
+- [x]Backpropagation
+- [x]Gradient Descent
 - PyTorch
-- TensorFlow
-- Keras
-- CNN
+- [x]TensorFlow
+- [x]Keras
+- [x]CNN
 - RNN
 - LSTM
 - GRU
@@ -177,14 +177,14 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - Transfer Learning
 
 ### Computer Vision
-- Image Processing
-- CNN
-- OpenCV
-- Face Detection
+- [x]Image Processing
+- [x]CNN
+- [x]OpenCV
+- [x]Face Detection
 - Object Detection
-- Video Processing
+- [x]Video Processing
 - YOLO
-- Image Classification
+- [x]Image Classification
 
 ### Generative AI
 - Introduction to Generative AI
@@ -274,15 +274,15 @@ Artificial Intelligence, Generative AI, Agentic AI, and MLOps.
 - MCP with LLMs and AI Agents
 
 ### MLOps & Deployment
-- MLOps
-- DevOps vs MLOps
-- ML Lifecycle
+- [x]MLOps
+- [x]DevOps vs MLOps
+- [x]ML Lifecycle
 - Docker
 - Model Packaging
-- CI/CD
-- GitHub Actions
-- Jenkins
-- MLflow
+- [x]CI/CD
+- [x]GitHub Actions
+- [x]Jenkins
+- [x]MLflow
 - Kubeflow
 - Model Deployment
 - Cloud Deployment
